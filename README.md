@@ -2,8 +2,7 @@
 
 [![Figma Prototype](https://img.shields.io/badge/Figma-Interactive_Prototype-FF7262?logo=figma&logoColor=white)](https://www.figma.com/make/2XZkul2ZDN9A9TPPhA6Kjy/Interactive-App-Prototype?t=t8sAYddWYqeE8LmN-20&fullscreen=1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-**Project Title:** Serene Steps  
+  
 **Objective:** To help working professionals and interns manage workplace stress through brief, guided relaxation sessions triggered by real‑time stress indicators and user behaviour.  
 **Target Audience:** Corporate employees, interns, and managers across age groups (16–64) who experience decision fatigue, performance anxiety, or burnout.  
 **Scenario Context:** A mobile‑first application that integrates into a busy workday, offering AI‑suggested micro‑interventions (breathing, grounding, journaling) without disrupting workflow.
@@ -66,18 +65,10 @@ The interactive prototype was built in **Figma** and includes the following impl
 
 We tested the low‑fidelity wireframes with 6 users. The feedback is documented in `/Docs/Testing/User_Reviews_Report.xlsx`.
 
-**Observations Summary:**
-- **User 1, 4, 6:** Found the flow *smooth and fast*. Onboarding was intuitive.
-- **User 2, 5:** Experienced a *slow start* locating the primary action button.  
-  → **Improvement:** Increased button contrast and added a subtle pulse animation.
-- **User 3:** Checked the screen during the breathing exercise.  
-  → **Improvement:** Added a "Keep Screen On" toggle and haptic feedback cue.
-
 **Resulting Improvements:**
 - Refined Home Dashboard layout for quicker orientation.
 - Enhanced visibility of the AI Suggestion "Pod".
 - Added reassuring microcopy for first‑time users.
-
 ---
 
 ## 🛠️ Technologies & Tools Used
